@@ -14,7 +14,7 @@ The NBA is a highly competitive league where teams constantly look for ways to g
 
 ## Data Description  
 - **Source:** NBA player statistics (1990–2021)  
-- **Period covered:** 2020–2021 and 1990–2021 seasons  
+- **Period covered:** 1990–2021 seasons  
 - **Key fields:** Player name, team, position, games played, minutes played, points scored, rebounds, assists, steals, blocks, turnovers  
 - **Size of dataset:** 1,500+ players, 30+ teams  
 
