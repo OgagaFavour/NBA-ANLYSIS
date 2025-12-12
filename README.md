@@ -13,17 +13,17 @@ The NBA is a highly competitive league where teams constantly look for ways to g
 ---
 
 ## Data Description  
-- **Source:** NBA player statistics (2020–2022)  
-- **Period covered:** 2020–2021 and 2021–2022 seasons  
+- **Source:** NBA player statistics (1990–2021)  
+- **Period covered:** 2020–2021 and 1990–2021 seasons  
 - **Key fields:** Player name, team, position, games played, minutes played, points scored, rebounds, assists, steals, blocks, turnovers  
-- **Size of dataset:** 1,500+ players, 30 teams  
+- **Size of dataset:** 1,500+ players, 30+ teams  
 
 ---
 
 ## Analytical Approach  
-- Data cleaning and preprocessing using **Power BI**  
+- Data cleaning and preprocessing using **Power Query**  
 - Exploratory data analysis (EDA) using **Excel**  
-- Data visualization using **Power BI**  
+- Data visualization using **Excel**  
 
 ---
 
@@ -50,14 +50,14 @@ The NBA is a highly competitive league where teams constantly look for ways to g
 ---
 
 ## Dashboard Overview / Screenshots  
-The **Power BI dashboard** provides an interactive overview of player and team performance, enabling stakeholders to drill down into key metrics and trends.  
+The **Excel dashboard** provides an interactive overview of player and team performance, enabling stakeholders to drill down into key metrics and trends.  
 
 `!dashboard/screenshot.png`  
 
 ---
 
 ## Tools Used  
-- Excel  
+- Excel, power Query & poweropint  
 
 ---
 
